@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "id": "0754",
+      "name": "Edilson Schwanck",
+      "email": "edilsonSchwanck@gmail.com",
+      "phone": "51996548812"
+    },
+    {
+      "id": "3863",
+      "name": "Edilson Schwanck",
+      "email": "edilsonschwanck@gmail.com",
+      "phone": "46465465465"
+    },
+    {
+      "id": "d780",
+      "name": "asfasfasf",
+      "email": "asfasfasfafa@gmail.com",
+      "phone": "51588484848"
+    },
+    {
+      "id": "13f7",
+      "name": "teste123",
+      "email": "edilsonborges96@gmail.com",
+      "phone": "51996548812"
+    },
+    {
+      "id": "a34d",
+      "name": "teste 08",
+      "email": "teste08@gmail.com",
+      "phone": "51545451555"
+    }
+  ]
+}

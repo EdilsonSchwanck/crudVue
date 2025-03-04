@@ -46,8 +46,7 @@ Certifique-se de que todas as dependências necessárias para o backend estão i
 - Vue.js (Frontend)
 - TailwindCSS (se aplicável)
 
-## 🛠️ Desenvolvimento
-Caso queira modificar o projeto, siga os passos acima para instalar e rodar o ambiente localmente.
+
 
 
 

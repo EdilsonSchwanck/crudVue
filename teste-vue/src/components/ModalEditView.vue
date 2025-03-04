@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { defineProps, defineEmits, watch } from 'vue'
+import {defineEmits, watch } from 'vue'
 import { formatPhone, unmaskPhone } from '../utils/phoneMask' 
 import BaseButton from './button_components/BaseButton.vue'
 

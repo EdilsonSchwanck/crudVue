@@ -7,7 +7,7 @@ const props = defineProps<{
   textColor?: string 
 }>()
 
-const emit = defineEmits(['click']) // Evento de clique
+const emit = defineEmits(['click']) 
 
 
 const buttonClasses = computed(() => [

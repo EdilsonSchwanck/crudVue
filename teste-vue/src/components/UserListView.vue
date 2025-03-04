@@ -3,7 +3,7 @@ import { ref, onMounted } from 'vue'
 import { useUserStore } from '../stores/userStores'
 import { formatPhone } from '../utils/phoneMask' 
 import EditUserModal from './ModalEditView.vue'
-import DeleteUserModal from './ModalDelete.vue' // Importa a modal de exclusão
+import DeleteUserModal from './ModalDelete.vue' 
 import { useRouter } from 'vue-router'
 import BaseButton from './button_components/BaseButton.vue'
 

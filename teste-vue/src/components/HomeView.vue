@@ -13,7 +13,7 @@ let isDeleting = false;
 const router = useRouter()
 
 const goToRegistration = () => {
-  router.push('/register') // Alterado para corresponder ao router
+  router.push('/register') 
 }
 
 const goToEditUser = () => {

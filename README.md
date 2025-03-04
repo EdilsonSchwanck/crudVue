@@ -14,11 +14,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd seu-repositorio
-   ```
-3. Instale as dependências:
+2. Instale as dependências:
    ```bash
    npm install
    ```

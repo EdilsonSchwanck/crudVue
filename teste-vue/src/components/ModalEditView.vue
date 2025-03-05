@@ -3,6 +3,7 @@ import {defineEmits, watch } from 'vue'
 import { formatPhone, unmaskPhone } from '../utils/phoneMask' 
 import BaseButton from './button_components/BaseButton.vue'
 
+
 const props = defineProps<{
   user: { id: number; name: string; email: string; phone?: string } | null
   isOpen: boolean

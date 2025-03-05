@@ -1,6 +1,6 @@
 # 🚀 Projeto Vue + Backend
 
-Bem-vindo ao projeto! Este repositório contém a aplicação frontend em Vue.js e um backend para suportar as funcionalidades.
+Bem-vindo ao projeto! 
 
 ## 📌 Pré-requisitos
 Antes de começar, certifique-se de ter instalado em sua máquina:

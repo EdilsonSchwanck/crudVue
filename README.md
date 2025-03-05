@@ -12,7 +12,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 
 1. Clone este repositório:
    ```bash
-   https://github.com/EdilsonSchwanck/crudVue/tree/master/teste-vue
+   https://github.com/EdilsonSchwanck/crudVue.git
    ```
 2. Instale as dependências:
    ```bash
